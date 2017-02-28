@@ -1,0 +1,3 @@
+[submodule "RelationalDeepLearning"]
+	path = RelationalDeepLearning
+	url = git@github.com:sebdumancic/RelationalDeepLearning.git
