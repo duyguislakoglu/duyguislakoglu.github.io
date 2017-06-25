@@ -799,7 +799,12 @@
 	padding: 10px;
 	margin-left: 40px;
 	margin-right: 40px;
-	padding-bottom: 15px
+	padding-bottom: 15px;
+	max-width: 80%;
+}
+
+.pubicons {
+	float: right;
 }
 
 heading {
