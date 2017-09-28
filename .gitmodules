@@ -3,4 +3,4 @@
 	url = https://github.com/sebdumancic/RelationalDeepLearning.git
 [submodule "pinacs"]
 	path = pinacs
-	url = git@github.com:sebdumancic/simple-top-viewer.git
+	url = https://github.com/sebdumancic/simple-top-viewer.git
