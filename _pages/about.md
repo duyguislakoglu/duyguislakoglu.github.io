@@ -18,7 +18,8 @@ social: true
 ---
 
 
-I am a PostDoc in the [DTAI lab](http://dtai.cs.kuleuven.be/){:target="\_blank"} at [KU Leuven](http://www.kuleuven.be){:target="\_blank"}, under the supervision of Professor [Hendrik Blockeel](http://people.cs.kuleuven.be/~hendrik.blockeel/){:target="\_blank"}.
+I am a PostDoc in the [DTAI lab](http://dtai.cs.kuleuven.be/){:target="\_blank"} at [KU Leuven](http://www.kuleuven.be){:target="\_blank"} working with Professor [Hendrik Blockeel](http://people.cs.kuleuven.be/~hendrik.blockeel/){:target="\_blank"}.
+I obtained my PhD in 2018 in the same group.
 
 My research focus is on machine learning models that learn useful abstractions of rich and complex relational data in a declarative manner by combining [statistical relational learning (SRL)](http://www.cs.umd.edu/srl-book){:target="\_blank"} and [deep learning](http://deeplearning.net/){:target="\_blank"}. SRL models are a powerful class of machine learning models that rely on expressive knowledge representation formats of logic and statistics to express a very wide range of machine learning models, not limited to vectors and matrices. That expressivity comes at high cost of learning and inference - reusable abstractions can help us tame this complexity!
 
