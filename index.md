@@ -2,6 +2,8 @@
 
 ## **Education**
 
+## **Projects**
+
 ## **Curriculum Vitae**
 
 
