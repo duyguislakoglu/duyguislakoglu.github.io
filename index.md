@@ -1,5 +1,5 @@
-## Research Interests
+## **Research Interests**
 
-## Education
+## **Education**
 
-## Curriculum Vitae
+## **Curriculum Vitae**
