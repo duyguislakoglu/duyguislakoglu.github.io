@@ -11,3 +11,5 @@
 
 
 <img src="https://github.com/duyguislakoglu/duyguislakoglu.github.io/blob/master/object_detection.jpg" style="display: block; margin: auto;" />
+
+![Object Detection Projects]("https://github.com/duyguislakoglu/duyguislakoglu.github.io/blob/master/object_detection.jpg")
