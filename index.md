@@ -10,6 +10,5 @@
 <a href="https://www.flickr.com/photos/141791055@N06/albums">Flickr account</a>
 
 
-<img src="https://github.com/duyguislakoglu/duyguislakoglu.github.io/blob/master/object_detection.jpg" style="display: block; margin: auto;" />
+<img src="./object_detection.jpg" style="display: block; margin: auto;" />
 
-![Object Detection Projects]("https://github.com/duyguislakoglu/duyguislakoglu.github.io/blob/master/object_detection.jpg")
