@@ -3,12 +3,10 @@
 ## **Education**
 
 ## **Projects**
+<img src="./object_detection.jpg" style="display: block; margin: auto;" />
 
 ## **Curriculum Vitae**
 <a href="https://github.com/duyguislakoglu/duyguislakoglu.github.io/blob/master/duygu_sezen_islakoglu_cv.pdf">2019</a>
-
-
-<img src="./object_detection.jpg" style="display: block; margin: auto;" />
 
 
 ## **Flickr Account** 
