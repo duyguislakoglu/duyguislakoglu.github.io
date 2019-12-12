@@ -1,6 +1,9 @@
 ## **Research Interests**
+Geometric deep learning
 
 ## **Education**
+Koç University, B.S. in Computer Engineering (2015-2020)
+Kabataş Erkek Lisesi, High School (2015)
 
 ## **Projects**
 <img src="./object_detection.jpg" style="display: block; margin: auto;" />
