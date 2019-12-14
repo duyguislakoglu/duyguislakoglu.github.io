@@ -8,7 +8,7 @@ repository          : https://github.com/duyguislakoglu    # repository metadata
 
 ### Author Info ###
 author:
-  name              : Duygu Sezen Islakoğlu
+  #name              : Duygu Sezen Islakoğlu
   image             : logo.png
   email             : duyguislakoglu@gmail.com
   github            : duyguislakoglu
