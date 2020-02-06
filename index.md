@@ -16,10 +16,15 @@ Object Detection
 
 # **Lecture Notes**
 <a href="https://github.com/duyguislakoglu/handwritten_notes/blob/master/abstract_algebra.pdf">Abstract Algebra</a>
+
 <a href="https://github.com/duyguislakoglu/handwritten_notes/blob/master/advanced_calculus.pdf">Advanced Calculus</a>
+
 <a href="https://github.com/duyguislakoglu/handwritten_notes/blob/master/complex_analysis.pdf">Complex Analysis</a>
+
 <a href="https://github.com/duyguislakoglu/handwritten_notes/blob/master/differential_equations.pdf">Differential Equations</a>
+
 <a href="https://github.com/duyguislakoglu/handwritten_notes/blob/master/graph_theory.pdf">Graph Theory</a>
+
 <a href="https://github.com/duyguislakoglu/handwritten_notes/blob/master/linear_algebra.pdf">Linear Algebra</a>
 
 
