@@ -1,3 +1,4 @@
+encoding: UTF-8
 ## ABOUT
 # **Research Interests**
 Geometric Deep Learning
