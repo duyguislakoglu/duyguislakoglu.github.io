@@ -6,7 +6,7 @@ Geometric Deep Learning
 # **Education**
 Koç University, B.S. in Computer Engineering (2015-2020)
 
-Koç University, B.S. in Mathematics (2016-2020)
+Koç University, B.S. in Mathematics (2017-2020)
 
 Kabatas High School (2015)
 
