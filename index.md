@@ -4,6 +4,7 @@ Geometric Deep Learning
 
 # **Education**
 Koç University, B.S. in Computer Engineering (2015-2020)
+
 Koç University, B.S. in Mathematics (2016-2020)
 
 Kabatas High School (2015)
@@ -14,10 +15,13 @@ Kabatas High School (2015)
 # **Internships**
 
 Koç University Artificial Intelligence Laboratory
+
 Koç University Intelligent User Interfaces Laboratory
 
 Miletos Inc.
+
 FalconAI Technologies
+
 MigraineAI
 
 # **Lecture Notes**
