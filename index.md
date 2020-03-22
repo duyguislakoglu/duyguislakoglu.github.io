@@ -4,15 +4,21 @@ Geometric Deep Learning
 
 # **Education**
 Koç University, B.S. in Computer Engineering (2015-2020)
+Koç University, B.S. in Mathematics (2016-2020)
 
-Kabataş Erkek Lisesi, High School (2015)
+Kabatas High School (2015)
 
 # **Curriculum Vitae**
 <a href="https://github.com/duyguislakoglu/duyguislakoglu.github.io/blob/master/duygu_sezen_islakoglu_cv.pdf">2020</a>
 
 # **Internships**
-Object Detection
 
+Koç University Artificial Intelligence Laboratory
+Koç University Intelligent User Interfaces Laboratory
+
+Miletos Inc.
+FalconAI Technologies
+MigraineAI
 
 # **Lecture Notes**
 <a href="https://github.com/duyguislakoglu/handwritten_notes/blob/master/abstract_algebra.pdf">Abstract Algebra</a>
