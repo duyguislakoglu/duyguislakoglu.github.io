@@ -1,5 +1,3 @@
-
-## ABOUT
 # **Research Interests**
 Geometric Deep Learning
 
