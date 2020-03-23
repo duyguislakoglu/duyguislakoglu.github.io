@@ -13,6 +13,26 @@ Kabatas High School (2015)
 # **Curriculum Vitae**
 <a href="https://github.com/duyguislakoglu/duyguislakoglu.github.io/blob/master/duygu_sezen_islakoglu_cv.pdf">2020</a>
 
+# **Projects**
+
+<a href="https://github.com/duyguislakoglu/graph_convolutional_networks">graph_convolutional_networks</a>
+ 
+<a href="https://github.com/duyguislakoglu/cs188">artificial_intelligence</a>
+
+<a href="https://github.com/duyguislakoglu/machine_learning">machine_learning</a>
+
+<a href="https://github.com/duyguislakoglu/cs231n">deep_learning</a>
+ 
+<a href="https://github.com/duyguislakoglu/numerical_methods">numerical_methods</a> 
+ 
+<a href="https://github.com/duyguislakoglu/functional_programming">functional_programming</a>
+
+<a href="https://github.com/duyguislakoglu/operating_systems">operating_systems</a>
+ 
+<a href="https://github.com/duyguislakoglu/data_structures">data_structures</a>
+ 
+<a href="https://github.com/duyguislakoglu/eulers_monopoly">eulers_monopoly</a>
+ 
 # **Internships**
 
 Koç University Artificial Intelligence Laboratory
