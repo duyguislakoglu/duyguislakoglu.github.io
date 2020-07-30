@@ -15,7 +15,7 @@ Kabatas High School (2015)
 
 <a href="https://github.com/duyguislakoglu/graph_convolutional_networks">graph_convolutional_networks</a>
  
-<a href="https://github.com/duyguislakoglu/awesome-gnn-geometric-deep-learning">awesome-gnn-geometric-deep-learning</a>
+<a href="https://github.com/duyguislakoglu/awesome-graph-ml">awesome-graph-ml</a>
  
 <a href="https://github.com/duyguislakoglu/cs188">artificial_intelligence</a>
 
