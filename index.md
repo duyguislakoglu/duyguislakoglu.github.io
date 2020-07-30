@@ -15,6 +15,8 @@ Kabatas High School (2015)
 
 <a href="https://github.com/duyguislakoglu/graph_convolutional_networks">graph_convolutional_networks</a>
  
+<a href="https://github.com/duyguislakoglu/awesome-gnn-geometric-deep-learning">awesome-gnn-geometric-deep-learning</a>
+ 
 <a href="https://github.com/duyguislakoglu/cs188">artificial_intelligence</a>
 
 <a href="https://github.com/duyguislakoglu/machine_learning">machine_learning</a>
@@ -59,4 +61,5 @@ MigraineAI
 
 # **Flickr Account** 
 <a href="https://www.flickr.com/photos/141791055@N06/albums">See albums</a>
+
 <img src="./flickr.jpg" style="display: block; margin: auto;" />
