@@ -16,7 +16,7 @@ Koç University, B.S. in Mathematics (2016-2020)
 Kabatas High School (2015)
 
 # **Curriculum Vitae**
-<a href="https://github.com/duyguislakoglu/duyguislakoglu.github.io/blob/master/08-20-duygu_sezen_islakoglu_cv.pdf">08-2020</a>
+<a href="https://github.com/duyguislakoglu/duyguislakoglu.github.io/blob/master/08-20-duygu-sezen-islakoglu-cv.pdf">August20</a>
 
 # **Projects**
 
