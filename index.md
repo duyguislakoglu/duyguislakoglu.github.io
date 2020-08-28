@@ -1,6 +1,8 @@
 # **Research Interests**
 Geometric Deep Learning
+
 Graph Neural Networks
+
 Shape Correspondence
 
 # **Education**
