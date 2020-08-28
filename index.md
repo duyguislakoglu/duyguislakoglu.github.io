@@ -1,7 +1,12 @@
 # **Research Interests**
 Geometric Deep Learning
+Graph Neural Networks
+Shape Correspondence
 
 # **Education**
+
+KU Leuven, M.Sc. in Artificial Intelligence (2020)
+
 Koç University, B.S. in Computer Engineering (2015-2020)
 
 Koç University, B.S. in Mathematics (2016-2020)
@@ -33,17 +38,6 @@ Kabatas High School (2015)
  
 <a href="https://github.com/duyguislakoglu/eulers_monopoly">eulers_monopoly</a>
  
-# **Internships**
-
-Koç University Artificial Intelligence Laboratory
-
-Koç University Intelligent User Interfaces Laboratory
-
-Miletos Inc.
-
-FalconAI Technologies
-
-MigraineAI
 
 # **Lecture Notes**
 <a href="https://github.com/duyguislakoglu/handwritten_notes/blob/master/abstract_algebra.pdf">Abstract Algebra</a>
