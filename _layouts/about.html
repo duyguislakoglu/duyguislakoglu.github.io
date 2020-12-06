@@ -12,6 +12,17 @@ layout: page
         {{ page.profile.address }}
       </div>
     {% endif %}
+
+    {% if page.cv %}
+      <div>
+       <a href="{{ page.cv | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" title="CV"><i class="fas fa-file-pdf"></i> CV</a>
+      </div>
+     {% endif  %}
+
+    {% if page.social %}
+       {% include social.html %}
+    {% endif %}
+
   </div>
 {% endif %}
 

@@ -18,7 +18,7 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 github_username: sebdumancic # your GitHub user name
 twitter_username: sebdumancic # your Twitter handle
-linkedin_username: sebastijan-dumancic # your LinkedIn user name
+# linkedin_username: sebastijan-dumancic # your LinkedIn user name
 scholar_userid: besOUicAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-0915-8034 # your ORCID ID
 contact_note: # You can even add a little note about which of these is the best way to reach you.
@@ -62,7 +62,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 8
+news_limit: 1000 
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
