@@ -19,7 +19,7 @@ I obtained my PhD from [KU Leuven](http://www.kuleuven.be){:target="\_blank"} in
 Before that, I was a student at the [University of Zagreb](http://www.fer.unizg.hr/){:target="\_blank"}.
 
 
-I design machines that learn and reason with what they have learned.
+I design machines that learn and reason.
 My goal is to develop machines that can learn as efficiently as humans, as well as apply their knowledge as flexibly.
 In prusuing this goal, I contribute to and use techniques from [program induction/synthesis](https://www.microsoft.com/en-us/research/publication/program-synthesis/){:target="\_blank"}, [inductive logic programming](https://arxiv.org/abs/2008.07912){:target="\_blank"}, [probabilistic programming](https://en.wikipedia.org/wiki/Probabilistic_programming){:target="\_blank"} and [statistical relational AI](https://www.morganclaypool.com/doi/abs/10.2200/S00692ED1V01Y201601AIM032){:target="\_blank"}.
 My work is largely inspired by ideas and progress in [cognitive science](https://en.wikipedia.org/wiki/Cognitive_science){:target="\_blank"}.
