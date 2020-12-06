@@ -37,3 +37,7 @@ description: Courses and Master theses
  - Thomas Dierckx: *Model merging in relational learning* 
  - Alexandru Nicolae Onete: *Predicate invention using meta-interpretative learning*  
  - Philippe Moeyersoms: *Explicit optimal control of a hybrid-electric heavy-duty vehicle* 
+
+
+### Science popularisation
+For years I've been involved with the [Summer School of Science](http://drustvo-evo.hr/s3/){:target="\_blank"} in Croatia - a science-popularisation project for high-school students. If you know, or have, a high-schooler interested in science, please check this program out!

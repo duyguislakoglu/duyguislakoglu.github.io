@@ -2,12 +2,8 @@
 layout: page
 permalink: /varia/
 title: varia
-description: Various links and pointers I found useful/interesting. Info that does not belong to other categories.
+description: Various links and pointers I found useful or interesting. Info that does not belong to other categories.
 ---
-
-
-### Science popularisation
-For years I've been involved with the [Summer School of Science](http://drustvo-evo.hr/s3/){:target="\_blank"} in Croatia - a science-popularisation project for high-school students. If you know, or have, a high-schooler interested in science, please check this program out!
 
 
 ### Workshops
