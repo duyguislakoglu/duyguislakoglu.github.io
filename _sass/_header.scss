@@ -33,7 +33,10 @@
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 10px;
-        }
+	    }
+	font-weight: 700;
+    	font-family: "PT Sans Narrow",sans-serif;
+    	text-transform: uppercase;
     }
     // added for hamburger
     @include media-query($on-palm) {
