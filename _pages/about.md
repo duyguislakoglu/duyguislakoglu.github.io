@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Sebastijan</strong> Dumančić
-description: Researcher in Artificial Intelligence
+description: Assistant Professor in Artificial Intelligence
 
 profile:
   align: left
